@@ -1,0 +1,19 @@
+{
+  "name": "nodemonadv",
+  "version": "1.0.0",
+  "description": "node practice",
+  "type": "module",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "kripa",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.9.10"
+  }
+}
